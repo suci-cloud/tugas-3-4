@@ -1,0 +1,46 @@
+body{
+	background-image: url(Images/background.jpg);
+}
+#tampilan{
+	background-color:  rgba(80, 189, 85, 0.5);
+	width: 1000px;
+	height: 2000px;
+	margin: auto;
+
+
+}
+#header{
+	background-color: grey;
+	height: 200px;
+	width: 1000px;
+	overflow: hidden;
+}
+#teks{
+	background-color:  rgb(255, 255, 255);
+	height: 20px;
+	width: 100px;
+	overflow: hidden;
+	border-syyle: dotted;
+	border-color: black;
+}
+#menu{
+	background: grey;
+	height: 30px;
+	width: 1000px;
+}
+#kiri{
+	background-color: rgba( 255, 255, 115, 0.7);
+	height: 550px;
+	width: 700px;
+	float: left;
+	border-style: double;
+	border-color: #1A43F5;
+}
+#kanan{
+	background: rgba( 115, 162, 255, 0.7);
+	height: 550px;
+	width: 288px;
+	float: right;
+	border-style: double;
+	border-color: #0852F5;
+}
